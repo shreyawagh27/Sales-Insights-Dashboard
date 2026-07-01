@@ -1,5 +1,4 @@
 # Sales-Insights-Dashboard
-# **Sales Insights Dashboard**
 
 ## **Project Title**
 
